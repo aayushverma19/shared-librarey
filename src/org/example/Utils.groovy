@@ -1,4 +1,4 @@
-package com.example
+package org.example
 
 class Utils {
     static String getHelloMessage(String name) {
