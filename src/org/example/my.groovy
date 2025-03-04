@@ -1,6 +1,6 @@
 package org.example
 
-class Utils {
+class my {
     static String getHelloMessage(String name) {
         return "Hello, ${name}!"
     }
