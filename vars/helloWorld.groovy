@@ -2,6 +2,6 @@
 
 def call(String name = 'World') {
     // def message = Utils.getHelloMessage(name)
-    echo ${"name"}
+    echo "hello ${name}"
     //echo message
 }
