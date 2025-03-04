@@ -1,6 +1,6 @@
-import org.example.Utils
+// import org.example.Utils
 
 def call(String name = 'World') {
-    def message = Utils.getHelloMessage(name)
+    // def message = Utils.getHelloMessage(name)
     echo message
 }
